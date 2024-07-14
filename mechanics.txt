@@ -1,8 +1,15 @@
+couple
+coefficient of restitution
+tension
+lever
+lift
+projectile motion
+inelastic collision
+turning point
+
 freefall
 centre of mass
-lever
 force
-coefficient of restitution
 principle of moments
 scalar
 kinetic energy
@@ -10,21 +17,17 @@ vector
 weight
 elastic potential energy
 drag
-turning point
-inelastic collision
 moment
 Newton's 3rd law
 terminal speed
 average velocity
 speed
-lift
 velocity
 efficiency
 Newton's 1st law
 momentum
 equilibrium
 air resistance
-tension
 work
 acceleration
 mass
@@ -33,10 +36,9 @@ impulse
 power
 Newton's 2nd law
 time
-projectile motion
 resultant vector
-couple
 elastic collision
 gravitational potential energy
 friction
 displacement
+normal
